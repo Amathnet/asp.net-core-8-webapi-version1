@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8bDjmRqmBjkUCxx1rSDanL59JZyLwu59Z5ABMwFLZn9Pd5umttN1RsBAS7POkU1pyuSuJsLzWrBtgSJP6GBjXQ==",
+  "dgSpecHash": "boZYPMUt6y+aUAqRFM0BIWuccy31Bia+AnGhoZj67wIBEyX8xiGSiE9uNlCXdB2tlPg0earwQvLUrdUNs8ElMA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\i9CORE\\source\\repos\\asp.net-core-8-webapi-version1\\Services.Abstractions\\Services.Abstractions.csproj",
+  "projectFilePath": "C:\\Users\\i9CORE\\source\\repos\\asp.net-core-8-webapi-version1\\Services.Abstractions\\Service.Contracts.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

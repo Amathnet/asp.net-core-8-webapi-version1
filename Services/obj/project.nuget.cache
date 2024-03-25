@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gjbxcFZDqMMPc4QsdtJM+AMzBOg4rO1ODTrCp9o1Ogo8zdnrr5J7pE//1a4pI1NHLtP+c2prfSEq2xhBpQ3hkA==",
+  "dgSpecHash": "GM7Nj+tsyXCTOsWKq1nD5hdmUiidnI9qLfNL5tzYsvKft2+y8nqWj0lojvf42v4aOuldwQ7fUq+UVHMbnv6ncQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\i9CORE\\source\\repos\\asp.net-core-8-webapi-version1\\Services\\Services.csproj",
+  "projectFilePath": "C:\\Users\\i9CORE\\source\\repos\\asp.net-core-8-webapi-version1\\Services\\Service.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

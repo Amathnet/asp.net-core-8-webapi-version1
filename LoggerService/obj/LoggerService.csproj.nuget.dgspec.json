@@ -4,6 +4,137 @@
     "C:\\Users\\i9CORE\\source\\repos\\asp.net-core-8-webapi-version1\\LoggerService\\LoggerService.csproj": {}
   },
   "projects": {
+    "C:\\Users\\i9CORE\\source\\repos\\asp.net-core-8-webapi-version1\\Contracts\\Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\i9CORE\\source\\repos\\asp.net-core-8-webapi-version1\\Contracts\\Contracts.csproj",
+        "projectName": "Contracts",
+        "projectPath": "C:\\Users\\i9CORE\\source\\repos\\asp.net-core-8-webapi-version1\\Contracts\\Contracts.csproj",
+        "packagesPath": "C:\\Users\\i9CORE\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\i9CORE\\source\\repos\\asp.net-core-8-webapi-version1\\Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\i9CORE\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\i9CORE\\source\\repos\\asp.net-core-8-webapi-version1\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\i9CORE\\source\\repos\\asp.net-core-8-webapi-version1\\Entities\\Entities.csproj"
+              },
+              "C:\\Users\\i9CORE\\source\\repos\\asp.net-core-8-webapi-version1\\Shared\\Shared.csproj": {
+                "projectPath": "C:\\Users\\i9CORE\\source\\repos\\asp.net-core-8-webapi-version1\\Shared\\Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\i9CORE\\source\\repos\\asp.net-core-8-webapi-version1\\Entities\\Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\i9CORE\\source\\repos\\asp.net-core-8-webapi-version1\\Entities\\Entities.csproj",
+        "projectName": "Entities",
+        "projectPath": "C:\\Users\\i9CORE\\source\\repos\\asp.net-core-8-webapi-version1\\Entities\\Entities.csproj",
+        "packagesPath": "C:\\Users\\i9CORE\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\i9CORE\\source\\repos\\asp.net-core-8-webapi-version1\\Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\i9CORE\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\i9CORE\\source\\repos\\asp.net-core-8-webapi-version1\\Shared\\Shared.csproj": {
+                "projectPath": "C:\\Users\\i9CORE\\source\\repos\\asp.net-core-8-webapi-version1\\Shared\\Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "C:\\Users\\i9CORE\\source\\repos\\asp.net-core-8-webapi-version1\\LoggerService\\LoggerService.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -12,6 +143,70 @@
         "projectPath": "C:\\Users\\i9CORE\\source\\repos\\asp.net-core-8-webapi-version1\\LoggerService\\LoggerService.csproj",
         "packagesPath": "C:\\Users\\i9CORE\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\i9CORE\\source\\repos\\asp.net-core-8-webapi-version1\\LoggerService\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\i9CORE\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\i9CORE\\source\\repos\\asp.net-core-8-webapi-version1\\Contracts\\Contracts.csproj": {
+                "projectPath": "C:\\Users\\i9CORE\\source\\repos\\asp.net-core-8-webapi-version1\\Contracts\\Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\i9CORE\\source\\repos\\asp.net-core-8-webapi-version1\\Shared\\Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\i9CORE\\source\\repos\\asp.net-core-8-webapi-version1\\Shared\\Shared.csproj",
+        "projectName": "Shared",
+        "projectPath": "C:\\Users\\i9CORE\\source\\repos\\asp.net-core-8-webapi-version1\\Shared\\Shared.csproj",
+        "packagesPath": "C:\\Users\\i9CORE\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\i9CORE\\source\\repos\\asp.net-core-8-webapi-version1\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\i9CORE\\AppData\\Roaming\\NuGet\\NuGet.Config",
