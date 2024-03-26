@@ -1,0 +1,16 @@
+C:\Users\i9CORE\source\repos\asp.net-core-8-webapi-version1\Entities\bin\Debug\net8.0\Entities.deps.json
+C:\Users\i9CORE\source\repos\asp.net-core-8-webapi-version1\Entities\bin\Debug\net8.0\Entities.dll
+C:\Users\i9CORE\source\repos\asp.net-core-8-webapi-version1\Entities\bin\Debug\net8.0\Entities.pdb
+C:\Users\i9CORE\source\repos\asp.net-core-8-webapi-version1\Entities\bin\Debug\net8.0\Shared.dll
+C:\Users\i9CORE\source\repos\asp.net-core-8-webapi-version1\Entities\bin\Debug\net8.0\Shared.pdb
+C:\Users\i9CORE\source\repos\asp.net-core-8-webapi-version1\Entities\obj\Debug\net8.0\Entities.csproj.AssemblyReference.cache
+C:\Users\i9CORE\source\repos\asp.net-core-8-webapi-version1\Entities\obj\Debug\net8.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\i9CORE\source\repos\asp.net-core-8-webapi-version1\Entities\obj\Debug\net8.0\Entities.AssemblyInfoInputs.cache
+C:\Users\i9CORE\source\repos\asp.net-core-8-webapi-version1\Entities\obj\Debug\net8.0\Entities.AssemblyInfo.cs
+C:\Users\i9CORE\source\repos\asp.net-core-8-webapi-version1\Entities\obj\Debug\net8.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\i9CORE\source\repos\asp.net-core-8-webapi-version1\Entities\obj\Debug\net8.0\Entities.sourcelink.json
+C:\Users\i9CORE\source\repos\asp.net-core-8-webapi-version1\Entities\obj\Debug\net8.0\Entities.csproj.Up2Date
+C:\Users\i9CORE\source\repos\asp.net-core-8-webapi-version1\Entities\obj\Debug\net8.0\Entities.dll
+C:\Users\i9CORE\source\repos\asp.net-core-8-webapi-version1\Entities\obj\Debug\net8.0\refint\Entities.dll
+C:\Users\i9CORE\source\repos\asp.net-core-8-webapi-version1\Entities\obj\Debug\net8.0\Entities.pdb
+C:\Users\i9CORE\source\repos\asp.net-core-8-webapi-version1\Entities\obj\Debug\net8.0\ref\Entities.dll

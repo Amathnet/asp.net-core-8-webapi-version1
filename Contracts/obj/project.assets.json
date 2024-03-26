@@ -51,9 +51,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\i9CORE\\source\\repos\\asp.net-core-8-webapi-version1\\Contracts\\Contracts.csproj",
-      "projectName": "Contracts",
-      "projectPath": "C:\\Users\\i9CORE\\source\\repos\\asp.net-core-8-webapi-version1\\Contracts\\Contracts.csproj",
+      "projectUniqueName": "C:\\Users\\i9CORE\\source\\repos\\asp.net-core-8-webapi-version1\\Contracts\\Repository.Contracts.csproj",
+      "projectName": "Repository.Contracts",
+      "projectPath": "C:\\Users\\i9CORE\\source\\repos\\asp.net-core-8-webapi-version1\\Contracts\\Repository.Contracts.csproj",
       "packagesPath": "C:\\Users\\i9CORE\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\i9CORE\\source\\repos\\asp.net-core-8-webapi-version1\\Contracts\\obj\\",
       "projectStyle": "PackageReference",
