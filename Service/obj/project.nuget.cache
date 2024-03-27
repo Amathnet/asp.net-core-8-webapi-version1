@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "kdy04JoVNmLAjD0ptHjYVldu1lEe1+pDIFDtcgt1Jxs1h03v/MeI3vFiRWPi/czuBb3zwpKpWP9YF/jTloVqLw==",
+  "dgSpecHash": "e8FCYun3GgnbSVOOv1PtPw8rZNNJgMKWbfUxZaW31D5LlomcYiwqhEFbjCPgelnrdXUoaPWuucsp5LKtYJ1AeA==",
   "success": true,
   "projectFilePath": "C:\\Users\\i9CORE\\source\\repos\\asp.net-core-8-webapi-version1\\Service\\Service.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\i9CORE\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\i9CORE\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\i9CORE\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
     "C:\\Users\\i9CORE\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",

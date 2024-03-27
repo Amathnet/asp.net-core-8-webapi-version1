@@ -1031,6 +1031,10 @@
       "Controller/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Repository.Contracts": "1.0.0",
+          "Service.Contracts": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/Controller.dll": {}
         },
@@ -1038,17 +1042,55 @@
           "bin/placeholder/Controller.dll": {}
         }
       },
-      "Repository/1.0.0": {
+      "Entities/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
-          "Microsoft.EntityFrameworkCore": "8.0.3"
+          "Shared": "1.0.0"
         },
         "compile": {
-          "bin/placeholder/Repository.dll": {}
+          "bin/placeholder/Entities.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Repository.dll": {}
+          "bin/placeholder/Entities.dll": {}
+        }
+      },
+      "Repository.Contracts/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Entities": "1.0.0",
+          "Shared": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Repository.Contracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Repository.Contracts.dll": {}
+        }
+      },
+      "Service.Contracts/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Entities": "1.0.0",
+          "Shared": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Service.Contracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Service.Contracts.dll": {}
+        }
+      },
+      "Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Shared.dll": {}
         }
       }
     }
@@ -2592,18 +2634,32 @@
       "path": "../Controller/Controller.csproj",
       "msbuildProject": "../Controller/Controller.csproj"
     },
-    "Repository/1.0.0": {
+    "Entities/1.0.0": {
       "type": "project",
-      "path": "../Repository/Repository.csproj",
-      "msbuildProject": "../Repository/Repository.csproj"
+      "path": "../Entities/Entities.csproj",
+      "msbuildProject": "../Entities/Entities.csproj"
+    },
+    "Repository.Contracts/1.0.0": {
+      "type": "project",
+      "path": "../Repository.Contracts/Repository.Contracts.csproj",
+      "msbuildProject": "../Repository.Contracts/Repository.Contracts.csproj"
+    },
+    "Service.Contracts/1.0.0": {
+      "type": "project",
+      "path": "../Service.Contracts/Service.Contracts.csproj",
+      "msbuildProject": "../Service.Contracts/Service.Contracts.csproj"
+    },
+    "Shared/1.0.0": {
+      "type": "project",
+      "path": "../Shared/Shared.csproj",
+      "msbuildProject": "../Shared/Shared.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
       "Controller >= 1.0.0",
       "Microsoft.EntityFrameworkCore.Sqlite >= 8.0.3",
-      "Microsoft.EntityFrameworkCore.Tools >= 8.0.3",
-      "Repository >= 1.0.0"
+      "Microsoft.EntityFrameworkCore.Tools >= 8.0.3"
     ]
   },
   "packageFolders": {
@@ -2635,9 +2691,6 @@
           "projectReferences": {
             "C:\\Users\\i9CORE\\source\\repos\\asp.net-core-8-webapi-version1\\Controller\\Controller.csproj": {
               "projectPath": "C:\\Users\\i9CORE\\source\\repos\\asp.net-core-8-webapi-version1\\Controller\\Controller.csproj"
-            },
-            "C:\\Users\\i9CORE\\source\\repos\\asp.net-core-8-webapi-version1\\Repository\\Repository.csproj": {
-              "projectPath": "C:\\Users\\i9CORE\\source\\repos\\asp.net-core-8-webapi-version1\\Repository\\Repository.csproj"
             }
           }
         }
