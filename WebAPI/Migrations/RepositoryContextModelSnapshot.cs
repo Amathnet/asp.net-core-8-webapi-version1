@@ -45,15 +45,15 @@ namespace WebAPI.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Product");
+                    b.ToTable("Companies");
 
                     b.HasData(
                         new
                         {
-                            Id = new Guid("84494d6b-e3d0-45d4-8b33-b7bbf97dfbeb"),
+                            Id = new Guid("ab61c402-f476-419d-8adc-4fde51aa26b9"),
                             Active = true,
                             Available = true,
-                            Changed = new DateTime(2024, 3, 26, 13, 20, 32, 502, DateTimeKind.Local).AddTicks(6326),
+                            Changed = new DateTime(2024, 3, 26, 13, 11, 35, 236, DateTimeKind.Local).AddTicks(9563),
                             Description = "Pfirsich haltiges Erfrischungsgetränk",
                             Name = "Eistee",
                             Price = 2.99m

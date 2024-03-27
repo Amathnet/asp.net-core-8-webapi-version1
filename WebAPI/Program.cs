@@ -3,7 +3,9 @@ using WebAPI.Extensions;
 
 var builder = WebApplication.CreateBuilder(args);
 
-LogManager.Setup().LoadConfigurationFromFile(string.Concat(Directory.GetCurrentDirectory(), "/nlog.config"));
+LogManager
+    .Setup()
+    .LoadConfigurationFromFile(string.Concat(Directory.GetCurrentDirectory(), "/nlog.config"));
 
 builder.Services.ConfigureCors();
 builder.Services.ConfigureLoggerService();

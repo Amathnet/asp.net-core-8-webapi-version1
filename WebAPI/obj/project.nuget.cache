@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bbSkUlp0UWo7XjM5DVgN3Dd5oW/vVAT96t3Bhula3PmQIBTJPx1zkFGEIbYrN+ybdMPjTS2gHVAkcBoyZQZzUA==",
+  "dgSpecHash": "QVQVTMpJ1aMbCK7jc9MUm0+RkiwCHEjnkY8LYwsCi0273zYi6yYushuhjv9L2WwvpvoHE+tNGhqtafXVu8mghw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\i9CORE\\source\\repos\\asp.net-core-8-webapi-version1\\Web\\WebAPI.csproj",
+  "projectFilePath": "C:\\Users\\i9CORE\\source\\repos\\asp.net-core-8-webapi-version1\\WebAPI\\WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\i9CORE\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\i9CORE\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
@@ -31,8 +31,6 @@
     "C:\\Users\\i9CORE\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
     "C:\\Users\\i9CORE\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
     "C:\\Users\\i9CORE\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",
-    "C:\\Users\\i9CORE\\.nuget\\packages\\nlog\\5.2.8\\nlog.5.2.8.nupkg.sha512",
-    "C:\\Users\\i9CORE\\.nuget\\packages\\nlog.extensions.logging\\5.3.8\\nlog.extensions.logging.5.3.8.nupkg.sha512",
     "C:\\Users\\i9CORE\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.6\\sqlitepclraw.bundle_e_sqlite3.2.1.6.nupkg.sha512",
     "C:\\Users\\i9CORE\\.nuget\\packages\\sqlitepclraw.core\\2.1.6\\sqlitepclraw.core.2.1.6.nupkg.sha512",
     "C:\\Users\\i9CORE\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.6\\sqlitepclraw.lib.e_sqlite3.2.1.6.nupkg.sha512",
